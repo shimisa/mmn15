@@ -1,4 +1,5 @@
 # mmn15
+Multi-threaded programming exercise
 
 Class homework of parallel programming in Java: 
 
